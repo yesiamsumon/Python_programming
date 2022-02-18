@@ -1,0 +1,37 @@
+2022-02-16 15:00:59,477 - INFO - root - Starting of all operations program
+2022-02-18 09:56:50,981 - INFO - root - Starting of all operations program
+2022-02-18 09:58:07,762 - ERROR - root - 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+2022-02-18 10:00:39,163 - INFO - root - Starting of all operations program
+2022-02-18 10:02:51,156 - INFO - root - Starting of all operations program
+2022-02-18 11:01:25,504 - INFO - root - Starting of all operations program
+2022-02-18 11:02:55,018 - INFO - root - Starting of all operations program
+2022-02-18 11:05:17,481 - ERROR - root - Problem occured while inserting the value in the table..
+2022-02-18 11:05:17,482 - ERROR - root - Not enough parameters for the SQL statement
+2022-02-18 11:06:12,985 - ERROR - root - Problem occured while inserting the value in the table..
+2022-02-18 11:06:12,985 - ERROR - root - Not enough parameters for the SQL statement
+2022-02-18 11:08:01,812 - ERROR - root - Problem occured while inserting the value in the table..
+2022-02-18 11:08:01,812 - ERROR - root - Not enough parameters for the SQL statement
+2022-02-18 11:09:57,039 - ERROR - root - Problem occured while updating the table..
+2022-02-18 11:09:57,039 - ERROR - root - 1054 (42S22): Unknown column 'civil' in 'field list'
+2022-02-18 11:23:20,212 - INFO - root - Starting of all operations program
+2022-02-18 11:25:02,082 - ERROR - root - Problem occured while updating the table..
+2022-02-18 11:25:02,082 - ERROR - root - 1292 (22007): Truncated incorrect DOUBLE value: 'cse'
+2022-02-18 11:54:52,008 - INFO - root - Starting of all operations program
+2022-02-18 11:56:58,730 - INFO - root - Starting of all operations program
+2022-02-18 11:57:20,132 - INFO - root - Starting of all operations program
+2022-02-18 11:59:14,090 - INFO - root - Starting of all operations program
+2022-02-18 14:20:50,577 - INFO - root - Starting of all operations program
+2022-02-18 14:22:37,941 - ERROR - root - Problem occured while creating the table..
+2022-02-18 14:22:37,942 - ERROR - root - 'BasicSqlOperation' object has no attribute 'Cursor'
+2022-02-18 14:33:41,269 - INFO - root - Starting of all operations program
+2022-02-18 14:38:40,344 - INFO - root - Starting of all operations program
+2022-02-18 14:44:11,706 - INFO - root - Starting of all operations program
+2022-02-18 14:45:12,199 - ERROR - root - Problem occured while deleting the value
+2022-02-18 14:45:12,199 - ERROR - root - 1146 (42S02): Table 'student_details.daf' doesn't exist
+2022-02-18 14:48:56,977 - INFO - root - Starting of all operations program
+2022-02-18 15:00:35,040 - INFO - root - Starting of all operations program
+2022-02-18 15:05:23,249 - INFO - root - Starting of all operations program
+2022-02-18 15:09:38,154 - INFO - root - Starting of all operations program
+2022-02-18 15:12:31,043 - INFO - root - Starting of all operations program
+2022-02-18 15:13:44,429 - ERROR - root - Problem occured while creating the table..
+2022-02-18 15:13:44,429 - ERROR - root - 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'd,add delhi)' at line 1
